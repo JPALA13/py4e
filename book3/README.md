@@ -129,3 +129,4 @@ We can also use the issue tracker to coordinate if that helps.
 
 /Chuck
 
+Portuguese PDF link: http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf
